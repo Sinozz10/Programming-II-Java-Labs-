@@ -1,2 +1,2 @@
-# Programming-II-Java-Labs-
+# Programming-II-Java-Labs
 Prog-II Labs &amp; Assignments
